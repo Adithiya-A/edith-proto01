@@ -1,0 +1,5 @@
+Project EDITH
+
+Eleven Labs -
+- Agent ID : agent_7401ke504davfg48stvg37sc75ad
+- API Key : sk_aac6c7ea23623ec2378d32d18371618d92616ebc205cb4fc
