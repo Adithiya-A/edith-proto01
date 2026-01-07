@@ -1,0 +1,31 @@
+Python Learning Path for AI and Automation
+
+Basic Python Fundamentals:
+- Variables and Data Types
+- Control Flow (if statements, loops)
+- Functions and Classes
+- Error Handling
+- File Operations
+
+Libraries for AI and Automation:
+- NumPy (numerical computing)
+- Pandas (data manipulation)
+- Scikit-learn (machine learning)
+- TensorFlow or PyTorch (deep learning)
+- OpenCV (computer vision)
+- NLTK (natural language processing)
+- Selenium (web automation)
+- PyAutoGUI (desktop automation)
+
+Advanced Concepts:
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- API Integration
+- Regular Expressions
+- Threading and Multiprocessing
+
+Best Practices:
+- Code Organization
+- Documentation
+- Testing
+- Version Control (Git)
